@@ -6,7 +6,7 @@
 
 💞 I’m looking to collaborate on Data Science and Analytics Projects
 
-📫 How to reach me: LinkedIn
+🔗 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile-link/)
 
 ⚡ Fun fact: I love exploring datasets and turning them into meaningful insights!
 
